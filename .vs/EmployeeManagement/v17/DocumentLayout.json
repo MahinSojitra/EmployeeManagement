@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\mappings\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\mappings\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3963892A-F4E6-44F1-B5ED-95438591AB41}|EmployeeManagement.API\\EmployeeManagement.API.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.api\\controllers\\areas\\employee\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3963892A-F4E6-44F1-B5ED-95438591AB41}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\areas\\employee\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\dtos\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0670EFE2-AAA2-4816-99D9-BAF9602B5463}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0670EFE2-AAA2-4816-99D9-BAF9602B5463}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\dtos\\auth\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\auth\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0670EFE2-AAA2-4816-99D9-BAF9602B5463}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.domain\\enums\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0670EFE2-AAA2-4816-99D9-BAF9602B5463}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\enums\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D48998F-8CBD-432B-9A33-961B517BBE18}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D48998F-8CBD-432B-9A33-961B517BBE18}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3963892A-F4E6-44F1-B5ED-95438591AB41}|EmployeeManagement.API\\EmployeeManagement.API.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.api\\controllers\\areas\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3963892A-F4E6-44F1-B5ED-95438591AB41}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\areas\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\dtos\\employee\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\employee\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3963892A-F4E6-44F1-B5ED-95438591AB41}|EmployeeManagement.API\\EmployeeManagement.API.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.api\\controllers\\areas\\position\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3963892A-F4E6-44F1-B5ED-95438591AB41}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\areas\\position\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3963892A-F4E6-44F1-B5ED-95438591AB41}|EmployeeManagement.API\\EmployeeManagement.API.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.api\\controllers\\areas\\department\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3963892A-F4E6-44F1-B5ED-95438591AB41}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\areas\\department\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D48998F-8CBD-432B-9A33-961B517BBE18}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D48998F-8CBD-432B-9A33-961B517BBE18}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\mappings\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\mappings\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\dtos\\auth\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\auth\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0670EFE2-AAA2-4816-99D9-BAF9602B5463}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0670EFE2-AAA2-4816-99D9-BAF9602B5463}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\dtos\\auth\\signinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\auth\\signinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\dtos\\token\\customtokenvalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\token\\customtokenvalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\codetrade\\.net_core\\employeemanagement\\employeemanagement.application\\dtos\\token\\tokenuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE946F75-7B7A-47FC-826A-110DC36A5AA5}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\token\\tokenuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Mappings\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Mappings\\EmployeeProfile.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Mappings\\EmployeeProfile.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Mappings\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:49:22.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:29:29.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:19:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:13:48.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Employee\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\Employee\\UpdateEmployeeDto.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Employee\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\Employee\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:12:03.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Employee\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\Employee\\EmployeeDto.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Employee\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\Employee\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:11:45.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Domain\\Enums\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Enums\\EmployeeType.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Domain\\Enums\\EmployeeType.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Enums\\EmployeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:55:47.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\Areas\\Employee\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\Areas\\Employee\\EmployeeController.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\Areas\\Employee\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\Areas\\Employee\\EmployeeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAApwC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:29:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\Areas\\Position\\PositionController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\Areas\\Position\\PositionController.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\Areas\\Position\\PositionController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\Areas\\Position\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:07:22.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\Areas\\Department\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\Areas\\Department\\DepartmentController.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\Areas\\Department\\DepartmentController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\Areas\\Department\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:37:14.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:10:54.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Mappings\\UserProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Mappings\\UserProfile.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Mappings\\UserProfile.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Mappings\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:52:25.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Auth\\AddressDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\Auth\\AddressDto.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Auth\\AddressDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\Auth\\AddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:50:08.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Auth\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\Auth\\UserProfileDto.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Auth\\UserProfileDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\Auth\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:49:39.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:46:33.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:46:14.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwGMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:26:54.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignInResponseDto.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Auth\\SignInResponseDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\Auth\\SignInResponseDto.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Auth\\SignInResponseDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\Auth\\SignInResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:41:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:27:22.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:20:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\TokenService.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\TokenService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:16:38.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TokenUserInfo.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Token\\TokenUserInfo.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\Token\\TokenUserInfo.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Token\\TokenUserInfo.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\Token\\TokenUserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:19:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomTokenValidationResult.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Token\\CustomTokenValidationResult.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\Token\\CustomTokenValidationResult.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\DTOs\\Token\\CustomTokenValidationResult.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\Token\\CustomTokenValidationResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:18:54.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\Areas\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\Areas\\Auth\\AuthController.cs",
+              "ToolTip": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\Areas\\Auth\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\Areas\\Auth\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:10:53.487Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

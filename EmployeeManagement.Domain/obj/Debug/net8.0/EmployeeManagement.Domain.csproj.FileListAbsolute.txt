@@ -1,0 +1,12 @@
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.deps.json
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfo.cs
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.dll
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\refint\EmployeeManagement.Domain.dll
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.pdb
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\ref\EmployeeManagement.Domain.dll

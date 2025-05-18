@@ -1,0 +1,15 @@
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.deps.json
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.dll
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.AssemblyInfo.cs
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\Employee.16DA35CB.Up2Date
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.dll
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\refint\EmployeeManagement.Application.dll
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.pdb
+D:\CodeTrade\.Net_Core\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net8.0\ref\EmployeeManagement.Application.dll

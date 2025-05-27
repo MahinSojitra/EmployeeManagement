@@ -2732,11 +2732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.DependencyInjection\\EmployeeManagement.DependencyInjection.csproj",
+      "projectUniqueName": "D:\\Github\\EmployeeManagement\\EmployeeManagement.DependencyInjection\\EmployeeManagement.DependencyInjection.csproj",
       "projectName": "EmployeeManagement.DependencyInjection",
-      "projectPath": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.DependencyInjection\\EmployeeManagement.DependencyInjection.csproj",
+      "projectPath": "D:\\Github\\EmployeeManagement\\EmployeeManagement.DependencyInjection\\EmployeeManagement.DependencyInjection.csproj",
       "packagesPath": "C:\\Users\\mahin\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.DependencyInjection\\obj\\",
+      "outputPath": "D:\\Github\\EmployeeManagement\\EmployeeManagement.DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2758,14 +2758,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj": {
-              "projectPath": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj"
+            "D:\\Github\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj": {
+              "projectPath": "D:\\Github\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj"
             },
-            "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
-              "projectPath": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj"
+            "D:\\Github\\EmployeeManagement\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
+              "projectPath": "D:\\Github\\EmployeeManagement\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj"
             },
-            "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj": {
-              "projectPath": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj"
+            "D:\\Github\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj": {
+              "projectPath": "D:\\Github\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj"
             }
           }
         }

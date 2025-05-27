@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UiK4lGwPG9s=",
+  "dgSpecHash": "64cYP9UpQQM=",
   "success": true,
-  "projectFilePath": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+  "projectFilePath": "D:\\Github\\EmployeeManagement\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahin\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\mahin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.0\\microsoft.aspnetcore.cryptography.internal.8.0.0.nupkg.sha512",

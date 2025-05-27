@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6oevmpeXa1s=",
+  "dgSpecHash": "pwo86wOPFjE=",
   "success": true,
-  "projectFilePath": "D:\\CodeTrade\\.Net_Core\\EmployeeManagement\\EmployeeManagement.DependencyInjection\\EmployeeManagement.DependencyInjection.csproj",
+  "projectFilePath": "D:\\Github\\EmployeeManagement\\EmployeeManagement.DependencyInjection\\EmployeeManagement.DependencyInjection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahin\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\mahin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

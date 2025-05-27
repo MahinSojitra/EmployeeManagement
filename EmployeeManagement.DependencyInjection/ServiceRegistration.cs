@@ -82,8 +82,7 @@ public static class ServiceRegistration
                     "https://ems-webapp.vercel.app" // Vercel production frontend
                 )
                 .AllowAnyHeader()
-                .AllowAnyMethod()
-                .AllowCredentials();
+                .AllowAnyMethod();
             });
         });
 

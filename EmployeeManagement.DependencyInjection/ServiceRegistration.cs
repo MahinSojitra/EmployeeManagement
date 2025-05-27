@@ -95,6 +95,8 @@ public static class ServiceRegistration
         services.AddScoped<IDepartmentService, DepartmentService>();
         services.AddScoped<IPositionRepository, PositionRepository>();
         services.AddScoped<IPositionService, PositionService>();
+        services.AddScoped<ILeaveRequestRepository, LeaveRequestRepository>();
+        services.AddScoped<ILeaveRequestService, LeaveRequestService>();
 
         services.AddAutoMapper(typeof(UserProfile).Assembly);
         services.AddAutoMapper(typeof(EmployeeProfile).Assembly);

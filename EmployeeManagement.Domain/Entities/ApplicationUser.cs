@@ -5,10 +5,6 @@ namespace EmployeeManagement.Domain.Entities
 {
     public class ApplicationUser : IdentityUser<Guid>
     {
-        // IdentityUser fields already required:
-        // Email, UserName, PasswordHash, etc.
-
-        // Required fields for basic registration
         public string FirstName { get; set; } = null!;
         public string LastName { get; set; } = null!;
 
@@ -21,7 +17,7 @@ namespace EmployeeManagement.Domain.Entities
 
         public Address? Address { get; set; }   
 
-        public ICollection<LeaveRequest> LeaveRequests { get; set; } = new List<LeaveRequest>();
+        public ICollection<LeaveRequest> LeaveRequests { get; set; }
         public Guid? PositionId { get; set; }
         public Position? Position { get; set; }
     }

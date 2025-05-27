@@ -8,7 +8,7 @@ namespace EmployeeManagement.API.Controllers.Areas.Employee
     [ApiController]
     [Route("api/[area]")]
     [Area("employee")]
-    //[Authorize(Roles = "Admin")]
+    [Authorize(Roles = "Admin")]
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;

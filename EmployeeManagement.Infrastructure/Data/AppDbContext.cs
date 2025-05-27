@@ -21,38 +21,37 @@ namespace EmployeeManagement.Infrastructure.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
-            // Configure EmployeeType enum to be stored as string
+            
             modelBuilder.Entity<ApplicationUser>()
                 .Property(u => u.EmployeeType)
                 .HasConversion<string>();
 
-            // One-to-One: User -> Address
+            // User -> Address
             modelBuilder.Entity<ApplicationUser>()
                 .HasOne(e => e.Address)
                 .WithOne()
                 .HasForeignKey<Address>(a => a.EmployeeId)
                 .OnDelete(DeleteBehavior.Cascade);
 
-            // One-to-Many: Department -> Users
+            // Department -> Users
             modelBuilder.Entity<ApplicationUser>()
                 .HasOne(e => e.Department)
                 .WithMany()
                 .HasForeignKey(e => e.DepartmentId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            // One-to-Many: Position -> Users
+            // Position -> Users
             modelBuilder.Entity<ApplicationUser>()
                 .HasOne(e => e.Position)
                 .WithMany()
                 .HasForeignKey(e => e.PositionId)
                 .OnDelete(DeleteBehavior.SetNull);
 
-            // One-to-Many: User -> LeaveRequests
+            // User -> LeaveRequests
             modelBuilder.Entity<LeaveRequest>()
-                .HasOne(l => l.Employee)
+                .HasOne(lr => lr.Employee)
                 .WithMany(e => e.LeaveRequests)
-                .HasForeignKey(l => l.EmployeeId)
+                .HasForeignKey(lr => lr.EmployeeId)
                 .OnDelete(DeleteBehavior.Cascade);
         }
     }

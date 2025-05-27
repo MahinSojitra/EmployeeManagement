@@ -75,12 +75,15 @@ public static class ServiceRegistration
 
         services.AddCors(options =>
         {
-            options.AddPolicy("AllowAngularClient", policy =>
+            options.AddPolicy("AllowAngularClientOrVercelFrontend", policy =>
             {
-                policy.WithOrigins("http://localhost:4200")
-                      .AllowAnyHeader()
-                      .AllowAnyMethod()
-                      .AllowCredentials();
+                policy.WithOrigins(
+                    "http://localhost:4200", // Local development
+                    "https://ems-webapp.vercel.app" // Vercel production frontend
+                )
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .AllowCredentials();
             });
         });
 
